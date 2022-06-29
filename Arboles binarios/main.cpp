@@ -1,5 +1,5 @@
 
-
+//ESTEVEN NACIMBA
 #include <iostream>
 #include "Arbol.h" 
 #include <stdlib.h>
@@ -90,9 +90,9 @@ void menu(){
 	 		int hojas = 0;
 		 	cout << endl;
 		 	cout << "La altura del arbol es: " << altura(arbol)<<endl;
-		 	// Número de hojas
+		 	// Nï¿½mero de hojas
 				
-			// Llame a la función para encontrar el número de nodos hoja
+			// Llame a la funciï¿½n para encontrar el nï¿½mero de nodos hoja
 			profundidad(arbol,&hojas);
 			printf("\nLa cantidad de hojas es: %d\n", hojas);
 			cout << endl;
