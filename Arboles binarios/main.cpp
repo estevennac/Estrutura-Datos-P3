@@ -1,5 +1,4 @@
 
-//ESTEVEN NACIMBA
 #include <iostream>
 #include "Arbol.h" 
 #include <stdlib.h>
