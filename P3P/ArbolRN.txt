@@ -1,0 +1,17 @@
+5(NEGRO) es raiz principal
+5(NEGRO) es Hijo izquierdo de 5(NEGRO)
+9(NEGRO) es Hijo derecho de 5(NEGRO)
+7(ROJO) es Hijo izquierdo de 9(NEGRO)
+5(NEGRO) es raiz principal
+5(NEGRO) es Hijo izquierdo de 5(NEGRO)
+9(NEGRO) es Hijo derecho de 5(NEGRO)
+7(ROJO) es Hijo izquierdo de 9(NEGRO)
+89(ROJO) es Hijo derecho de 9(NEGRO)
+1(NEGRO) es raiz principal
+1(ROJO) es Hijo izquierdo de 1(NEGRO)
+2(ROJO) es Hijo derecho de 1(NEGRO)
+1(NEGRO) es raiz principal
+3(ROJO) es Hijo derecho de 1(NEGRO)
+1(NEGRO) es raiz principal
+1(ROJO) es Hijo derecho de 1(NEGRO)
+1(NEGRO) es raiz principal
