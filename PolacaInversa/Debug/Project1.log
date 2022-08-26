@@ -1,0 +1,134 @@
+﻿Environment at start of build:
+ALLUSERSPROFILE = C:\ProgramData
+APPDATA = C:\Users\USER\AppData\Roaming
+CommonProgramFiles = C:\Program Files\Common Files
+CommonProgramFiles(x86) = C:\Program Files (x86)\Common Files
+CommonProgramW6432 = C:\Program Files\Common Files
+COMPUTERNAME = GWTN156-5
+ComSpec = C:\WINDOWS\system32\cmd.exe
+DriverData = C:\Windows\System32\Drivers\DriverData
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING = Default
+HOMEDRIVE = C:
+HOMEPATH = \Users\USER
+LOCALAPPDATA = C:\Users\USER\AppData\Local
+LOGONSERVER = \\GWTN156-5
+MSBuildLoadMicrosoftTargetsReadOnly = true
+NUMBER_OF_PROCESSORS = 8
+OneDrive = C:\Users\USER\OneDrive
+OneDriveConsumer = C:\Users\USER\OneDrive
+OS = Windows_NT
+Path = C:\Program Files\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Polyspace\R2021a\runtime\win64;C:\Program Files\Polyspace\R2021a\bin;C:\Program Files\Polyspace\R2021a\polyspace\bin;C:\Program Files\Git\cmd;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Program Files (x86)\Common Files\Propellerhead Software\ReWire\;C:\Program Files\Common Files\Propellerhead Software\ReWire\;C;C:\Program Files\dotnet\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Graphviz\bin;C:\TDM-GCC-32\bin;C:\Program Files\nodejs\;C:\Program Files\Graphviz\bin;C:\Users\USER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\USER\AppData\Roaming\npm
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PkgDefApplicationConfigFile = C:\Users\USER\AppData\Local\Microsoft\VisualStudio\17.0_a5de3c8c\devenv.exe.config
+PROCESSOR_ARCHITECTURE = AMD64
+PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+PROCESSOR_LEVEL = 23
+PROCESSOR_REVISION = 1801
+ProgramData = C:\ProgramData
+ProgramFiles = C:\Program Files
+ProgramFiles(x86) = C:\Program Files (x86)
+ProgramW6432 = C:\Program Files
+PSModulePath = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC = C:\Users\Public
+ServiceHubLogSessionKey = 198174CD
+SESSIONNAME = Console
+SystemDrive = C:
+SystemRoot = C:\WINDOWS
+TEMP = C:\Users\USER\AppData\Local\Temp
+ThreadedWaitDialogDpiContext = -4
+TMP = C:\Users\USER\AppData\Local\Temp
+USERDOMAIN = GWTN156-5
+USERDOMAIN_ROAMINGPROFILE = GWTN156-5
+USERNAME = USER
+USERPROFILE = C:\Users\USER
+VBOX_HWVIRTEX_IGNORE_SVM_IN_USE = 1
+VISSIM2022_EXAMPLES = C:\Users\Public\Documents\PTV Vision\PTV Vissim 2022
+VisualStudioDir = C:\Users\USER\Documents\Visual Studio 2022
+VisualStudioEdition = Microsoft Visual Studio Community 2022
+VisualStudioVersion = 17.0
+VSAPPIDDIR = C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\
+VSAPPIDNAME = devenv.exe
+VSLANG = 1033
+VSSKUEDITION = Community
+windir = C:\WINDOWS
+
+  AuxString.cpp
+  Lista.cpp
+  main.cpp
+C:\Users\USER\Desktop\PolacaInversa\main.cpp(20,10): fatal error C1083: Cannot open include file: 'Engine.h': No such file or directory
+  Operacion.cpp
+  Generating Code...
+C:\Users\USER\Desktop\PolacaInversa\Operacion.cpp(647): warning C4715: 'Operacion::has_parenthesis': not all control paths return a value
+
+Project Performance Summary:
+     2164 ms  C:\Users\USER\Desktop\PolacaInversa\Project1.vcxproj   1 calls
+               2164 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  ComputeCustomBuildOutput                   1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  CopyFileToFolders                          1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  SetCABuildNativeEnvironmentVariables       1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  GetReferencedVCProjectsInfo                1 calls
+        0 ms  FindReferenceAssembliesForReferences       1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  _CheckWindowsSDKInstalled                  1 calls
+        0 ms  _AddOutputPathToGlobalPropertiesToRemove   1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  ResolveProjectReferences                   1 calls
+        0 ms  GetFrameworkPaths                          1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  MakeDirsForMidl                            1 calls
+        1 ms  _PrepareForReferenceResolution             1 calls
+        1 ms  WarnCompileDuplicatedFilename              1 calls
+        1 ms  SelectClCompile                            1 calls
+        1 ms  ComputeReferenceCLInput                    1 calls
+        1 ms  GetResolvedWinMD                           1 calls
+        1 ms  AddExternalIncludDirectoriesToPaths        1 calls
+        1 ms  AssignProjectConfiguration                 1 calls
+        1 ms  MakeDirsForCl                              1 calls
+        1 ms  PreBuildEvent                              1 calls
+        1 ms  ResolveAssemblyReferences                  1 calls
+        2 ms  FixupCLCompileOptions                      1 calls
+        2 ms  _PrepareForBuild                           1 calls
+        5 ms  InitializeBuildStatus                      1 calls
+        8 ms  SetTelemetryEnvironmentVariables           1 calls
+        9 ms  PrepareForBuild                            1 calls
+       13 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+       17 ms  CustomBuild                                1 calls
+       48 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+     2046 ms  ClCompile                                  1 calls
+
+Task Performance Summary:
+        1 ms  MSBuild                                    1 calls
+        1 ms  WriteLinesToFile                           1 calls
+        1 ms  Touch                                      1 calls
+        1 ms  AssignProjectConfiguration                 1 calls
+        2 ms  MakeDir                                    5 calls
+        2 ms  ReadLinesFromFile                          1 calls
+        2 ms  CheckVCToolsetVersion                      1 calls
+        2 ms  Message                                    2 calls
+        2 ms  SetEnv                                     9 calls
+       17 ms  GetOutOfDateItems                          3 calls
+     2036 ms  CL                                         1 calls
