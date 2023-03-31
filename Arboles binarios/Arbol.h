@@ -1,4 +1,16 @@
 #include "Nodo.h"
+
+/*cambios*/
+
+
+
+
+
+
+
+
+
+
 class Arbol
 {
 	private: 
@@ -39,9 +51,9 @@ void profundidad(Nodo* arbol,int *hojas) {
 	if (arbol->getIzquierda() == NULL && arbol->getDerecha() == NULL) {
 		(*hojas)++;
 	}
-	// Juzgando el subárbol izquierdo
+	// Juzgando el subï¿½rbol izquierdo
 	profundidad(arbol->getIzquierda(),hojas);
-	// Juzgando el subárbol correcto
+	// Juzgando el subï¿½rbol correcto
 	profundidad(arbol->getDerecha(),hojas);
 }
 
@@ -78,7 +90,7 @@ void Arbol::insertarNodo(Nodo*& arbol, int dato){
  	}
 }
 /*Comprobamos si el arbol esta vacio, si ese es el caso creamos un nuevo nodo e 
-igualamos el arbol al nuevo nodo. Si el arbol cuenta con algén dato entonces creamos una 
+igualamos el arbol al nuevo nodo. Si el arbol cuenta con algï¿½n dato entonces creamos una 
 variable llamanda raiz para obtener si valor y establecer si el nuevo element va a la derecha o a 
 la izquierda*/
 
@@ -95,9 +107,9 @@ void Arbol::mostrar(Nodo* arbol, int contador){
  		mostrar(arbol->getIzquierda(), contador +1);
  	}
 }
-/*Comprobamos si el árbol está vacío entonces retornamos el árbol
-vacío, caso contrario aplicamos recursividad para ir mostrando los
-datos del árbol*/
+/*Comprobamos si el ï¿½rbol estï¿½ vacï¿½o entonces retornamos el ï¿½rbol
+vacï¿½o, caso contrario aplicamos recursividad para ir mostrando los
+datos del ï¿½rbol*/
 bool Arbol::buscar(Nodo* arbol, int dato){
 	if(arbol == NULL){
 		return false;
@@ -113,7 +125,7 @@ bool Arbol::buscar(Nodo* arbol, int dato){
  	}
 }
 
-/*Para buscar un elemento comprobamos si el arbol está vacío, caso contrario verificamos 
+/*Para buscar un elemento comprobamos si el arbol estï¿½ vacï¿½o, caso contrario verificamos 
 el nodo a ver si es el dato buscado, si este es menor buscamos a la derecha y si es mayor lo 
 buscamos a la izquierda*/
 void Arbol::preOrden(Nodo* arbol){
